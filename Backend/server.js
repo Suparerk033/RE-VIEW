@@ -12,7 +12,7 @@ const rateLimit = require('express-rate-limit');
 const reviewRoutes = require('./routes/review.routes');
 
 const app = express();
-const port = 5000;
+const port = process.env.PORT || 5000;
 
 // 📁 Multer setup
 const storage = multer.diskStorage({
