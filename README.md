@@ -6,7 +6,7 @@
 ## Settanun Stealnetr
 ### 6602041520284
 
-## thanaporn Phiwthon 
+## Thanaporn Phiwthon 
 ### 6602041520080
 
 ## Sirinapha Madyukop
