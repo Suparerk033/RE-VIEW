@@ -14,3 +14,6 @@
 
 ## Naphat Saelio
 ### 6602041510092
+
+## Kanjana Saimao
+### 6602041520012
